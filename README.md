@@ -4,7 +4,7 @@ A revival project for the Funkymushroom's Farmland Configurator tool found in th
 
 All credit to the creators
 
-## [Project](https://nehemiasfeliz.com/HMFOMT-farmland-configurator.github.io/)
+## [Project](https://nehemiasfeliz.com/HMFOMT-farmland-configurator/)
 
 ## Features of the remake
 
